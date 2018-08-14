@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TwoPageSwitch.PageTwo">
+	<ContentPage.Content>
+		<StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Padding="8">
+			<Image x:Name="imgToggled" WidthRequest="500" HeightRequest="400" Aspect="AspectFit" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
